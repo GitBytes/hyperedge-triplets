@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # Hyperedge Triplets
 This repository contains implementations of the top-k hyperedge triplet retrieval algorithm from this [paper](https://arxiv.org/pdf/2311.07783.pdf).
 
